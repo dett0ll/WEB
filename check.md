@@ -1,4 +1,4 @@
-##CSRF 
+CSRF 
 1. Change request method
 2. Remove CSRF token
 3. CSRF may be tied to cookie
